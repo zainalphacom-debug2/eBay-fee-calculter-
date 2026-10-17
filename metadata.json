@@ -1,0 +1,6 @@
+{
+  "name": "eBay UK Business Profit Calculator",
+  "description": "Accurate, compliant eBay UK Business Seller profit and fee calculation engine with multi-buy discounts, category tier rules, February 2026 updates, and VAT treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
